@@ -66,20 +66,20 @@
                 <h4>Brownie</h4> 
                 <p>La especialidad de esta cafeteria </p>
             </td>
-            <td> <img src="./img/torta2.png" alt="ahf"> </td>
+            <td> <img src="./images/torta2.png" alt="ahf"> </td>
             <td> 
                 <h4>Chocotorta</h4> 
                 <p>La torta mas famosa de Argentina</p>
             </td>
-            <td> <img src="./img/torta3.png" alt=""> </td>
+            <td> <img src="./images/torta3.png" alt=""> </td>
         </tr>
         <tr>
-            <td> <img src="./img/cafe2.png" alt=""> </td>
+            <td> <img src="./images/cafe2.png" alt=""> </td>
             <td>
                 <h4>Lagrima</h4> 
                 <p>Perfecta para acompañar con torta</p>
             </td>
-            <td> <img src="./img/submarino.png" alt=""> </td>
+            <td> <img src="./images/submarino.png" alt=""> </td>
             <td> 
                 <h4>Submarino</h4> 
                 <p>La mejor merienda para chicos y grandes</p>

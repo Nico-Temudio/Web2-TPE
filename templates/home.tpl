@@ -3,7 +3,7 @@
     <h1 class="titulo1">"La Cafeteria"</h1>
     <div class="contenedor">
         <div class="img1">
-        <img src="img/torta.png" alt="">
+        <img src="images/torta.png" alt="">
         </div>
         <div class="parrafo1">
             <h2>" Sobre nosotros "</h2>
@@ -19,11 +19,11 @@
             </p>
         </div>
         <div class="img1">
-            <img src="img/cafeteria.png"  alt="">
+            <img src="images/cafeteria.png"  alt="">
         </div>
         
         <div class="img1">
-            <img src="img/cafeteria2.png" alt="">
+            <img src="images/cafeteria2.png" alt="">
         </div>
         <div class="parrafo1">
             <h2>"Nuestro local"</h2>

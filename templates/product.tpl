@@ -16,7 +16,7 @@
         <div class="card-body">
           <h4 class="card-title">{$productById->nombre}</h4>
           <h5 class="card-subtitle">{$productById->descripcion}</h5>
-          <h5 >${$productById->precio}</h5>
+          <h4 class="card-title">Precio: ${$productById->precio}</h4>
           {if isset($smarty.session.IS_LOGGED)}
             <a href="eliminar/{$productById->id}" type="button" class="btn btn-primary" value="{$productById->id}">&#128465</a>
           {/if}
